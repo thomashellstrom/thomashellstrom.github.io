@@ -1,1 +1,3 @@
-alert('this is crazy')
+function myFunction() {
+  alert('this is crazy');
+}
